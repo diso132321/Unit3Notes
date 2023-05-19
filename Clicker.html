@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-<div class="container">
+<div class="container" id="container">
     <div class="content">
         <div class="scoreplace">
             <h3 id="score">L.O.V.E: 0</h3>
@@ -24,7 +24,7 @@
         <button id="submit">Submit</button>
         <div class="row">
             <div class="avatar">
-                <img id="picture" height="80" width="80" alt="your avatar!" src="data:image/png;base64,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">
+                <img id="picture" height="100" width="100" alt="your avatar!" src="data:image/png;base64,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">
             </div>
         </div>
         <button id="click">Dust</button>
@@ -66,6 +66,7 @@
     const user = document.querySelector('user');
     const username = document.getElementById('username');
     const submit = document.getElementById('submit');
+    const container = document.getElementById('container');
 
     submit.addEventListener('click', function(e){
         let displayuser = username.value;
@@ -122,7 +123,7 @@
 
     const times5 = document.getElementById('5');
 
-    let i = 4;
+    let i = 5;
 
     times5.addEventListener('click', function(e){
         if(score >= 100){
@@ -136,7 +137,7 @@
 
     const times20 = document.getElementById('20');
 
-    let q = 19;
+    let q = 20;
 
     times20.addEventListener('click', function(e){
         if(score >= 250){
@@ -148,7 +149,44 @@
         }
     });
 
+    const times50 = document.getElementById('50');
 
+    let w = 50;
+
+    times50.addEventListener('click', function(e){
+        if(score >= 500){
+            score -= 500;
+            click.addEventListener('click', function(e) {
+                score += w;
+                scorePlace.innerHTML = `<h3 id="score">L.O.V.E: ${score}</h3>`;
+            });
+        }
+    });
+
+    const times100 = document.getElementById('100');
+
+    let r = 100;
+
+    times100.addEventListener('click', function(e){
+        if(score >= 800){
+            score -= 800;
+            click.addEventListener('click', function(e) {
+                score += r;
+                scorePlace.innerHTML = `<h3 id="score">L.O.V.E: ${score}</h3>`;
+            });
+        }
+    });
+
+    const dub = document.getElementById('win');
+
+    dub.addEventListener('click', function(e){
+        if(score >= 1000000){
+            score -= 1000000;
+            click.addEventListener('click', function(e) {
+                container.innerHTML=''
+            });
+        }
+    });
 </script>
 </body>
 </html>
