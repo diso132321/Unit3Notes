@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="60852a1e-93f0-48ac-92ef-234624150e07" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Clicker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colorPicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/colorPicker.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/colorPicker.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="68" selection-start-line="30" selection-start-column="11" selection-end-line="32" selection-end-column="68" />
+            <state relative-caret-position="697">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -100,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Clicker.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="189" column="31" selection-start-line="189" selection-start-column="31" selection-end-line="189" selection-end-column="31" />
+            <state relative-caret-position="841">
+              <caret line="188" column="28" lean-forward="true" selection-start-line="188" selection-start-column="28" selection-end-line="188" selection-end-column="28" />
               <folding>
                 <element signature="n#src#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -132,13 +132,13 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/changeContents.html" />
         <option value="$PROJECT_DIR$/HomeWork.html" />
-        <option value="$PROJECT_DIR$/colorPicker.html" />
         <option value="$PROJECT_DIR$/colorPicker2.html" />
         <option value="$PROJECT_DIR$/Avatar.html" />
         <option value="$PROJECT_DIR$/insertPacket2.html" />
         <option value="$PROJECT_DIR$/Shopping.html" />
         <option value="$PROJECT_DIR$/insertPacket.html" />
         <option value="$PROJECT_DIR$/Clicker.html" />
+        <option value="$PROJECT_DIR$/colorPicker.html" />
       </list>
     </option>
   </component>
@@ -220,7 +220,10 @@
       <workItem from="1684251348078" duration="5118000" />
       <workItem from="1684424132034" duration="6193000" />
       <workItem from="1684514216751" duration="3288000" />
-      <workItem from="1684773552083" duration="2717000" />
+      <workItem from="1684773552083" duration="3045000" />
+      <workItem from="1684859726568" duration="2016000" />
+      <workItem from="1684946221193" duration="603000" />
+      <workItem from="1684947439624" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="index&#10;style&#10;change Contents&#10;Homework&#10;Color Picker&#10;Color Picker 2">
       <created>1683738117011</created>
@@ -257,11 +260,18 @@
       <option name="project" value="LOCAL" />
       <updated>1684517410065</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="index&#10;style&#10;change Contents&#10;Homework&#10;Color Picker&#10;Color Picker 2&#10;Avatar&#10;Insert Packet notes&#10;SayHello&#10;Shopping&#10;finished clicker">
+      <created>1684776493052</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684776493052</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34029000" />
+    <option name="totallyTimeSpent" value="37723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -296,7 +306,8 @@
     <MESSAGE value="index&#10;style&#10;change Contents&#10;Homework&#10;Color Picker&#10;Color Picker 2&#10;Avatar&#10;Insert Packet notes&#10;SayHello&#10;Shopping" />
     <MESSAGE value="index&#10;style&#10;change Contents&#10;Homework&#10;Color Picker&#10;Color Picker 2&#10;Avatar&#10;Insert Packet notes&#10;SayHello&#10;Shopping&#10;clicker" />
     <MESSAGE value="index&#10;style&#10;change Contents&#10;Homework&#10;Color Picker&#10;Color Picker 2&#10;Avatar&#10;Insert Packet notes&#10;SayHello&#10;Shopping&#10;finishing clicker" />
-    <option name="LAST_COMMIT_MESSAGE" value="index&#10;style&#10;change Contents&#10;Homework&#10;Color Picker&#10;Color Picker 2&#10;Avatar&#10;Insert Packet notes&#10;SayHello&#10;Shopping&#10;finishing clicker" />
+    <MESSAGE value="index&#10;style&#10;change Contents&#10;Homework&#10;Color Picker&#10;Color Picker 2&#10;Avatar&#10;Insert Packet notes&#10;SayHello&#10;Shopping&#10;finished clicker" />
+    <option name="LAST_COMMIT_MESSAGE" value="index&#10;style&#10;change Contents&#10;Homework&#10;Color Picker&#10;Color Picker 2&#10;Avatar&#10;Insert Packet notes&#10;SayHello&#10;Shopping&#10;finished clicker" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -310,27 +321,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="76" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/changeContents.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/colorPicker.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="68" selection-start-line="30" selection-start-column="11" selection-end-line="32" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -374,11 +364,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Clicker.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="189" column="31" selection-start-line="189" selection-start-column="31" selection-end-line="189" selection-end-column="31" />
+        <state relative-caret-position="841">
+          <caret line="188" column="28" lean-forward="true" selection-start-line="188" selection-start-column="28" selection-end-line="188" selection-end-column="28" />
           <folding>
             <element signature="n#src#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changeContents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/colorPicker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
         </state>
       </provider>
     </entry>
